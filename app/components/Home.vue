@@ -19,7 +19,7 @@
   export default {
     computed: {
       message() {
-        return "Blank {N}-Vue app";
+        return "Tiger Chat App {N}-Vue app";
       }
     }
   };
